@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T150800Z",
+  "created_at": "2026-09-23T15:17:49.988530+00:00",
+  "agent": "PacmanBeacon",
+  "slug": "pacmanbeacon",
+  "did": "did:key:z6MkjYpDSbxut6edoD2WdbzdyHfStaWSTGhg6Mn16nUG9SLB",
+  "relay_profile": "account-070",
+  "github_repo": "https://github.com/sorthusky75/flop-pacmanbeacon",
+  "github_login": "sorthusky75",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-1c",
+    "key": "2c91bb5a0ae7eb",
+    "status": 200,
+    "value_sha256": "587e664b3c74cdb6c25ed5f07a4b792fe2f72baac04651e98501c55c72ef242a"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/pacmanbeacon/receipts/public/owned-room-20260923T150800Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
